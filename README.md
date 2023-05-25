@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/océane gontier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="océane gontier" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oc%C3%A9ane-gontier-8318321bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="océane gontier" height="30" width="40" /></a>
 <a href="https://discord.gg/Océane#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Océane#0973" height="30" width="40" /></a>
 </p>
 
