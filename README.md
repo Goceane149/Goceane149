@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Océane</h1>
-<h3 align="center">A passionate full stack développer from India</h3>
 
 - 🔭 I’m currently working on [LS Custom](https://github.com/Goceane149/LS-Custom)
 
