@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Océane</h1>
 
-- 🔭 I’m currently working on [LS Custom](https://github.com/Goceane149/LS-Custom)
+- 🔭 I’m currently working on [L'atelier 26](https://github.com/Goceane149/Atelier26)
 
 - 👯 I collaborated on [GreenRide](https://github.com/Goceane149/Incubateur-Numerique)
 
