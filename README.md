@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Océane</h1>
 
-- 🔭 I’m currently working on [L'atelier 26](https://github.com/Goceane149/Atelier26)
+- 🔭 I’m currently working on [ThunderRP](https://github.com/Goceane149/ThunderRP)
 
 - 👯 I collaborated on [GreenRide](https://github.com/Goceane149/Incubateur-Numerique)
 
